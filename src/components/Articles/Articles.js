@@ -31,7 +31,7 @@ const Articles =()=>{
                 <div key={post.id}className={s.card}>
                      <h4>{post.title}</h4>
                      <p>{post.body}</p>
-                <img src ="" alt= ""/>
+               
                 <a href = "/">Read Now</a>
                 </div>
    

@@ -1,7 +1,7 @@
 export const menu=[
     {
-        title: 'products',
-        link:'/'
+        title: 'About',
+        link:'/about'
     },
     {
         title: 'pricing',

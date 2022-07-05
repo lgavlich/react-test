@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: space-between;
     padding: 20px 40px;
 }
@@ -11,12 +11,15 @@
     }
 
     .menu{
+        display: flex;
+        justify-content: space-between;
         list-style-type: none;
         padding-right: 20px;
         border-radius: 1px solid #ededed;
     }
        .item {
             display: inline-block;
+            margin-right: 5px;
         }
         .link {
             display: block;
